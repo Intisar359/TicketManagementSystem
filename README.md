@@ -1,6 +1,6 @@
 # KOTHIN TICKET - Ticket Management System 
 
-KOTHIN.COM is a comprehensive desktop-based Ticket Management System built with C# and Windows Forms (WinForms). It provides a complete solution for managing and booking bus and train tickets, featuring distinct interfaces for administrators and regular users.
+KOTHIN TICKET is a comprehensive desktop-based Ticket Management System built with C# and Windows Forms (WinForms). It provides a complete solution for managing and booking bus and train tickets, featuring distinct interfaces for administrators and regular users.
 
 ## Features
 
